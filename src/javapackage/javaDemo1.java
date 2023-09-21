@@ -12,5 +12,7 @@ public class javaDemo1 {
 			}
 		}
 		System.out.println("Length of the given string" + count);
+		System.out.println("Given number of total count ::::");
 	}
 }
+ 
